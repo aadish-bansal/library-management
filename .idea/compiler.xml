@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LibraryManagement" />
+        <module name="Assignment4" />
+        <module name="Assignment4Copy" />
+        <module name="Assignment4 - Copy" />
+        <module name="Library Management" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
